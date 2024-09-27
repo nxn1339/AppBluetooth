@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BluetoothVipPro"
+rootProject.name = "BluetoothChatVipPro"
 include(":app")
+ 
